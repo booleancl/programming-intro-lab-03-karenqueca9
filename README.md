@@ -11,3 +11,8 @@ En esta actividad realizaremos un formulario simple, pero funcional sin tener qu
 Cuando logres desplegar la aplicación en producción saca un print de pantalla y agrégalo a este README con un `commit` y luego `push`.
 
 ¡Recuerda siempre trabajar en equipo!
+
+## objetivo logrado
+[demo en producción](https://kaleidoscopic-beijinho-a2caea.netlify.app/)
+
+![foto del demo](demo.png)
